@@ -12,5 +12,4 @@ Meu nome é Sandrely Janaína
 
 @san.yd_
 
-![]()
-https://media1.tenor.com/m/XgBOEv1fDiEAAAAd/twig-hilda.gif
+![](https://media1.tenor.com/m/XgBOEv1fDiEAAAAd/twig-hilda.gif)
